@@ -17,6 +17,15 @@
           "quickstart"
         ]
       }
+    ],
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "quickstart",
+          "index"
+        ]
+      }
     ]
   },
   "logo": {
