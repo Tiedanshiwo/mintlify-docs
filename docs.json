@@ -17,23 +17,7 @@
           "quickstart"
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover",
-          "hidden": true
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper",
-          "hidden": true
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
@@ -48,6 +32,6 @@
     }
   },
   "metadata": {
-    "timestamp": false
+    "timestamp": true
   }
 }
