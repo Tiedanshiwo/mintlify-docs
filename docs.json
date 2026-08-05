@@ -24,6 +24,13 @@
         "pages": [
           "index",
           "quickstart"
+        ]
+      },
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "quickstart"
         ],
         "tag": "tagname"
       }
@@ -45,6 +52,8 @@
     "timestamp": true
   },
   "seo": {
-    "indexing": "all"
+    "metatags": {
+      "canonical": "https://www.gearuphiker.com"
+    }
   }
 }
