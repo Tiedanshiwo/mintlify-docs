@@ -9,11 +9,11 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "pages": [
-      "index",
+    "groups": [
       {
         "group": "Getting Started",
         "pages": [
+          "index",
           "quickstart"
         ]
       }
