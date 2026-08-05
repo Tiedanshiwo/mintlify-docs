@@ -25,6 +25,13 @@
           "index",
           "quickstart"
         ]
+      },
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
       }
     ]
   },
@@ -42,5 +49,8 @@
   },
   "metadata": {
     "timestamp": true
+  },
+  "seo": {
+    "indexing": "all"
   }
 }
