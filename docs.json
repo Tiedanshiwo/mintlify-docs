@@ -14,7 +14,10 @@
   "navigation": {
     "anchors": [
       {
-        "anchor": "Untitled Anchor"
+        "anchor": "Untitled Anchor",
+        "pages": [
+          "index"
+        ]
       }
     ]
   },
