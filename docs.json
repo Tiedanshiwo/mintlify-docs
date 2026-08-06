@@ -13,14 +13,7 @@
   },
   "navigation": {
     "pages": [
-      "index",
-      {
-        "group": "Getting Started",
-        "pages": [
-          "untitled-page-01",
-          "quickstart"
-        ]
-      }
+      "index"
     ]
   },
   "logo": {
