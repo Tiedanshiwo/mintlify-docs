@@ -14,7 +14,12 @@
   "navigation": {
     "pages": [
       "index",
-      "quickstart"
+      {
+        "group": "Getting Started",
+        "pages": [
+          "quickstart"
+        ]
+      }
     ]
   },
   "logo": {
