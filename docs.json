@@ -41,5 +41,8 @@
     "metatags": {
       "canonical": "https://www.gearuphiker.com"
     }
+  },
+  "styling": {
+    "eyebrows": "breadcrumbs"
   }
 }
