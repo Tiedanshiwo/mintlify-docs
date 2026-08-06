@@ -12,7 +12,11 @@
     "dark": "/images/favicon.svg"
   },
   "navigation": {
-    "groups": []
+    "anchors": [
+      {
+        "anchor": "Untitled Anchor"
+      }
+    ]
   },
   "logo": {
     "light": "/images/light.svg",
