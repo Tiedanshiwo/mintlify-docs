@@ -17,10 +17,10 @@
       {
         "group": "Getting Started",
         "pages": [
+          "untitled-page-01",
           "quickstart"
         ]
-      },
-      "untitled-page-01"
+      }
     ]
   },
   "logo": {
