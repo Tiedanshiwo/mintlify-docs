@@ -12,9 +12,14 @@
     "dark": "/images/favicon.svg"
   },
   "navigation": {
-    "pages": [
-      "index",
-      "untitled-page"
+    "groups": [
+      {
+        "group": "start",
+        "pages": [
+          "index",
+          "untitled-page"
+        ]
+      }
     ]
   },
   "logo": {
