@@ -12,14 +12,8 @@
     "dark": "/images/favicon.svg"
   },
   "navigation": {
-    "anchors": [
-      {
-        "anchor": "Untitled Anchor",
-        "icon": "00",
-        "pages": [
-          "index"
-        ]
-      }
+    "pages": [
+      "index"
     ]
   },
   "logo": {
