@@ -12,12 +12,11 @@
     "dark": "/images/favicon.svg"
   },
   "navigation": {
-    "groups": [
+    "pages": [
+      "index",
       {
         "group": "start",
-        "pages": [
-          "index"
-        ]
+        "pages": []
       }
     ]
   },
