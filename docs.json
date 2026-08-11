@@ -39,7 +39,8 @@
   "seo": {
     "metatags": {
       "canonical": "https://www.gearuphiker.com"
-    }
+    },
+    "indexing": "all"
   },
   "styling": {
     "eyebrows": "section"
